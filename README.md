@@ -1,5 +1,5 @@
-### Hi there 👋
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=martinsjeniffer&count_private=true&theme=radical&showicons=true&hide=issues)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsjeniffer&langs_count=6&theme=radical&layout=compact)]()
 <!--
 **martinsjeniffer/martinsjeniffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
