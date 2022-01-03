@@ -18,7 +18,7 @@ Current member of [TECS USP](https://tecs.ime.usp.br/) and podcast [Colmeia Tech
 
 <div align="left">
   <a href="https://app.daily.dev/martinsjeniffer">
-    <img src="https://api.daily.dev/devcards/86faab7144cb40e3a2eaa1534664b3fd.png?r=p7i" width="250" alt="Jeniffer Martins's Dev Card" align="right"/>
+    <img src="https://github.com/martinsjeniffer/martinsjeniffer/blob/main/devcard.svg" width="250" alt="Jeniffer Martins's Dev Card" align="right"/>
   </a>
 </div>
 
