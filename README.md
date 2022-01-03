@@ -25,14 +25,14 @@ Current member of [TECS USP](https://tecs.ime.usp.br/) and podcast [Colmeia Tech
 <div>
   <a href="https://github.com/martinsjeniffer">
     <img
-      src="https://github-readme-stats.vercel.app/api/?username=martinsjeniffer&count_private=true&theme=radical&showicons=true&hide=issues)"
+      src="https://github-readme-stats.vercel.app/api/?username=martinsjeniffer&count_private=true&theme=radical&showicons=true&hide=issues"
       alt="GitHub Stats"
       width="400"
     />
   </a>
     <a href="https://github.com/martinsjeniffer">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsjeniffer&langs_count=5&theme=radical&layout=compact&hide=roff,makefile,shell)"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsjeniffer&langs_count=5&theme=radical&layout=compact&hide=roff,makefile,shell"
       alt="GitHub Language Stats"
       width="400"
     />
