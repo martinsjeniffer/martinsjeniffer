@@ -12,7 +12,7 @@
 
 # Hey there, call me Jeni!
 
-I'm a Brazilian Front-end developer and IT student (EACH-USP).
+I'm a Brazilian cyber security engineer and IT student (EACH-USP).
 
 <div>
   <a href="https://github.com/martinsjeniffer">
