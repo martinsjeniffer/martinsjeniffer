@@ -33,4 +33,4 @@ I'm a Brazilian cyber security engineer and IT student (EACH-USP).
 
 <br />
 
-Love 🐕 animals, 🕍 architecture, 📚 books, and 📝 being over-organized, rs.
+I love animals 🐕, architecture 🕍, books 📚, privacy 🔐 and being over-organized 📝.
